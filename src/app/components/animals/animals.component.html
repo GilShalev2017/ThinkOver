@@ -1,0 +1,10 @@
+<div class="animals-container">
+
+    <app-animal-set *ngIf="currentSet"
+                    [animalSet]="currentSet"
+                    (setMouseOver)="nextSet()"
+                    (setNextImage)="nextSet()"
+                    (setPreviousImage)="previousSet()">
+    </app-animal-set>
+
+</div>

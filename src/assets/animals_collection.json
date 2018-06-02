@@ -1,0 +1,220 @@
+{
+    "Code": 0,
+    "Data": [
+        {
+			"animale":"Bird",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Bird/bird1.jpg",
+							"name":"Bird 1",
+							"id":"bi1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Bird/bird2.jpg",
+							"name":"Bird 2",
+							"id":"bi2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Bird/bird3.jpg",
+							"name":"Bird 3",
+							"id":"bi3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Bird/bird4.jpg",
+							"name":"Bird 4",
+							"id":"bi4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Cat",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Cats/cat1.jpg",
+							"name":"Cat 1",
+							"id":"ca1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Cats/cat2.jpg",
+							"name":"Cat 2",
+							"id":"ca2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Cats/cat3.jpg",
+							"name":"Cat 3",
+							"id":"ca3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Cats/cat4.jpg",
+							"name":"Cat 4",
+							"id":"ca4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Dog",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Dogs/dog1.jpg",
+							"name":"Dog 1",
+							"id":"d1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Dogs/dog2.jpg",
+							"name":"Dog 2",
+							"id":"d2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Dogs/dog3.jpg",
+							"name":"Dog 3",
+							"id":"d3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Dogs/dog4.jpg",
+							"name":"Dog 4",
+							"id":"d4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Horse",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Horse/horse1.jpg",
+							"name":"Horse 1",
+							"id":"h1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Horse/horse2.jpg",
+							"name":"Horse 2",
+							"id":"h2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Horse/horse3.jpg",
+							"name":"Horse 3",
+							"id":"h3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Horse/horse4.jpg",
+							"name":"Horse 4",
+							"id":"h4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Lion",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Lion/lion1.jpg",
+							"name":"Lion 1",
+							"id":"l1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Lion/lion2.jpg",
+							"name":"Lion 2",
+							"id":"l2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Lion/lion3.jpg",
+							"name":"Lion 3",
+							"id":"l3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Lion/lion4.jpg",
+							"name":"Lion 4",
+							"id":"l4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Monkey",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Monkey/monkey1.jpg",
+							"name":"Monkey 1",
+							"id":"m1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Monkey/monkey2.jpg",
+							"name":"Monkey 2",
+							"id":"m2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Monkey/monkey3.jpg",
+							"name":"Monkey 3",
+							"id":"m3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Monkey/monkey4.jpg",
+							"name":"Monkey 4",
+							"id":"m4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Shark",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Shark/shark1.jpg",
+							"name":"Shark 1",
+							"id":"s1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Shark/shark2.jpg",
+							"name":"Shark 2",
+							"id":"s2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Shark/shark3.jpg",
+							"name":"Shark 3",
+							"id":"s3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Shark/shark4.jpg",
+							"name":"Shark 4",
+							"id":"s4"
+				}				
+			]
+			
+        },
+		
+		{
+			"animale":"Turtle",
+			"instances":[
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Turtle/turtle1.jpg",
+							"name":"Turtle 1",
+							"id":"t1"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Turtle/turtle2.jpg",
+							"name":"Turtle 2",
+							"id":"t2"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Turtle/turtle3.jpg",
+							"name":"Turtle 3",
+							"id":"t3"
+				},
+				{
+							"imageUrl": "https://prodhuntitems.s3.amazonaws.com/ShopicksTest/Animals/Turtle/turtle4.jpg",
+							"name":"Turtle 4",
+							"id":"t4"
+				}				
+			]
+			
+        }                 
+    ]
+}

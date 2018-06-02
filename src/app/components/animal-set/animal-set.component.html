@@ -1,0 +1,27 @@
+<div class="animal-container"
+     *ngIf="animalSet.instances"
+     (mouseover)="onMouseOver()">
+
+    <app-animal [animal]="animalSet.instances[0]"
+                class="my-div">
+
+    </app-animal>
+
+    <app-animal [animal]="animalSet.instances[1]"
+                class="my-div"></app-animal>
+
+    <app-animal [animal]="animalSet.instances[2]"
+                class="my-div"></app-animal>
+
+    <app-animal [animal]="animalSet.instances[3]"
+                class="my-div"></app-animal>
+
+    <div class="cssarrowLeft" (click)="firePreviousImage()">
+        <img src="/assets/images/previous.svg">
+    </div>
+
+    <div class="cssarrowRight" (click)="fireNextImage()">
+        <img src="/assets/images/next.svg">
+    </div>
+
+</div>

@@ -1,0 +1,22 @@
+.main-box{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    color: white;
+    font-weight: bold;
+}
+
+.animal-img {
+    width: 198px;
+    height: 198px;
+}
+
+.details-box {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    height: 100%;
+    text-align: center;
+}
+
